@@ -1,0 +1,5 @@
+# Ignoring the trained model, caches, and notebook files in Git
+models/
+__pycache__/
+.ipynb_checkpoints/
+.venv/

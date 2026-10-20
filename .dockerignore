@@ -1,0 +1,6 @@
+# Creating Docker build exclusions
+.git
+.ipynb_checkpoints
+__pycache__
+.venv
+Dockerfile.jenkins
